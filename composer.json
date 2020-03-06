@@ -1,0 +1,13 @@
+{
+    "name": "alexandr/packet",
+    "description": "test packet",
+    "type": "library",
+    "license": "free",
+    "authors": [
+        {
+            "name": "Alexandr Vartyletskiy",
+            "email": "programvart@gmail.com"
+        }
+    ],
+    "require": {}
+}
