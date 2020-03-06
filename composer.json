@@ -9,5 +9,10 @@
             "email": "programvart@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "practcomp\\packet\\": ""
+        }
+    },
     "require": {}
 }
